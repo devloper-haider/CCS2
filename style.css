@@ -1,0 +1,35 @@
+.d{
+    border: 2px solid black;
+    display: inline-block;
+}
+.a{
+    height: 60px;
+    width: 600px;
+    background-color: #0065b3;
+}
+.b{
+    height: 60px;
+    width: 600px;
+    background-color: #ffffff;
+}
+.c{
+    height: 120px;
+    width: 600px;
+    background-color: #ed1b24;
+}
+.e{
+    height: 60px;
+    width: 600px;
+    background-color: #ffffff;
+}
+.f{
+    height: 60px;
+    width: 600px;
+    background-color: #0065b3;
+}
+img{
+    width: 100px;
+    position: absolute;
+    left: 230px;
+    top: 140px;
+}
